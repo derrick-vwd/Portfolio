@@ -1,0 +1,33 @@
+html {
+	font-family: "SUSE", sans-serif;
+}
+body {
+	margin: 0;
+}
+h1 {
+	font-size: 1.10rem;
+}
+h2 {
+	font-size: 1rem;
+}
+p {
+	font-size: 0.75rem;
+}
+header {
+	background-color: rgb(219, 223, 226);
+	display: flex;
+	justify-content: center;
+	margin-bottom: 5rem;
+	width: 100%;
+}
+main {
+	padding: 0 2rem;
+}
+footer {
+	background-color: rgb(236, 226, 226);
+	font-weight: 500;
+	padding: 0 2rem;
+	position: fixed;
+	text-align: center;
+	bottom: 0;
+}
